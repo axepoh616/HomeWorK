@@ -9,7 +9,7 @@ public class Main {
         for (int c = 1; c <= 7; c++) {
             b = a + b;
             a *= 1.1;}
-            System.out.println(+b);
+            System.out.println(b);
 
         }
 
