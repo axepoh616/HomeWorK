@@ -6,7 +6,7 @@ public class Main {
         double b;
         for (int a = 1; a <= 20; a++) {
             b = a * 2.54;
-            System.out.println(b);
+            System.out.println(a+" Inch = "+b+"cm.");
         }
 
     }
