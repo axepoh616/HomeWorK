@@ -3,15 +3,24 @@ package HomeWork;
 public class Main {
 
     public static void main(String[] args) {
-        int[] horizontal = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20};
-        for (int a = 1; a <= 20; a += 2) {
-            System.out.print(horizontal[a] + " ");
+        int[] numbers = new int[10];
+        numbers[0] = 2;
+        numbers[1] = 4;
+        numbers[2] = 6;
+        numbers[3] = 8;
+        numbers[4] = 10;
+        numbers[5] = 12;
+        numbers[6] = 14;
+        numbers[7] = 16;
+        numbers[8] = 18;
+        numbers[9] = 20;
+
+        for (int a = 1; a < numbers.length; a++) {
+            System.out.print(numbers[a] + " ");
         }
         System.out.println();
-        int[] vertical = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20};
-        for (int b = 1; b <= 20; b += 2) {
-            System.out.println(vertical[b] + " ");
-
+        for (int b = 1; b < numbers.length; b++) {
+            System.out.println(numbers[b] + " ");
         }
 
     }
