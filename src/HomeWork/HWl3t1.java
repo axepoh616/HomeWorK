@@ -25,5 +25,21 @@ public class Main {
 
     }
 }
+// или  
+package HomeWork;
 
+public class Main {
+
+    public static void main(String[] args) {
+        int[] numbers = {2,4,6,8,10,12,14,16,18,20};
+        for (int a = 0; a < numbers.length; a++) {
+            System.out.print(numbers[a] + " ");
+        }
+        System.out.println();
+        for (int b = 0; b < numbers.length; b++) {
+            System.out.println(numbers[b] + " ");
+        }
+
+    }
+}
 
