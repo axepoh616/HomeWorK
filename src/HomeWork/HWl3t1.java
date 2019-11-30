@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         int[] numbers = new int[10];
         for (int a = 0; a < numbers.length; a++) {
-            numbers[a] = a + (a + 2);
+            numbers[a] = 2 * a + 2;
             System.out.print(numbers[a] + " ");
         }
         System.out.println();
