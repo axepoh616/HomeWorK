@@ -8,7 +8,7 @@ public class Main {
         for (int a = 0; a < numbers1.length; a++) {
             numbers1[a] = (int) (Math.random() * 15);
             sum1 = sum1 + numbers1[a];
-            System.out.print(+numbers1[a] + " ");
+            System.out.print(numbers1[a] + " ");
         }
         System.out.println();
         int sum2 = 0;
