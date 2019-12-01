@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         int sum1 = 0;
-        int[] numbers1  = new int[5];//массив 1
+        int[] numbers1 = new int[5];//массив 1
         for (int a = 0; a < numbers1.length; a++) {
             numbers1[a] = (int) (Math.random() * 15);
             sum1 = sum1 + numbers1[a];
