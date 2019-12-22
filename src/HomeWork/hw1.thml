@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Homework_less1</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <div class="awensome">
+        <h1>WHY THIS IS AWESOME</h1>
+        <img src="pic/line.png" alt="">
+        <h6><p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p></h6>
+    </div>
+    
+    <div class="key">
+        <div class="k1">
+        <span><a href="#"><img src="pic/1.1.png" alt=""></a></span>
+        </div>
+        <div class="k2">
+        <span><a href="#"><img src="pic/1.2.png" alt=""></a></span>
+        </div>
+        <div class="k3">
+        <span><a href="#"><img src="pic/1.3.png" alt=""></a></span>
+        </div>
+    </div>
+
+    <div class="filling">
+        <div class="block1">
+            <img src="pic/1.png" alt="">
+            <h2>Thoughtful Design</h2>
+            <h6>Lorem ipsum dolor sit amet consectetur adipisicing 
+                elit. Odit laudantium nesciunt corporis blanditiis 
+                perferendis quibusdam veritatis magnam!</h6>
+        </div>
+        <div class="block2">
+            <img src="pic/1.png" alt="">
+            <h2>Well Crafted</h2>
+            <h6>Lorem ipsum dolor sit amet consectetur adipisicing 
+                elit. Odit laudantium nesciunt corporis blanditiis 
+                perferendis quibusdam veritatis magnam!</h6>
+        </div>
+        <div class="block3">
+            <img src="pic/1.png" alt="">
+            <h2>Easy to Customize</h2>
+            <h6>Lorem ipsum dolor sit amet consectetur adipisicing 
+                elit. Odit laudantium nesciunt corporis blanditiis 
+                perferendis quibusdam veritatis magnam!</h6>
+        </div>
+        
+    </div>
+    
+    
+
+</body>
+</html>
